@@ -18,7 +18,12 @@ class WalmartCostaRicaSpider(scrapy.Spider):
         'lechuga-romana-unidad-5/p',
         'cristal-agua-tapa-plana-1-75l-4/p',
         'pechuga-entera-pollo-kg/p',
-        'molida-hacienda-magra-res-magra-95-grasa-5-1kg-2-2/p'
+        'molida-hacienda-magra-res-magra-95-grasa-5-1kg-2-2/p',
+        '15-pack-cerveza-imperial-lata-5250ml/p',
+        'cafe-1820-puro-molido-clasico-1000gr/p',
+        'jabon-marca-dove-original-90gr/p',
+        'shampoo-dove-reconstruccion-completo-1150-ml/p',
+        'acondic-dove-oleo-nutricion-400ml/p'
     ]
     
     custom_settings = {

@@ -53,10 +53,30 @@
     },
     {
         "name": "Pechuga de Pollo Entera Don Cristobal, Precio indicado por Kilo",
-        "price": "₡3.800"
+        "price": null
     },
     {
         "name": "Carne Molida De Res Magra Don Cristobal, 95% Magra, 5% Grasa, Kilo",
         "price": "₡6.500"
+    },
+    {
+        "name": "Cerveza Imperial Lata 15 Pack - 350ml",
+        "price": "₡11.000"
+    },
+    {
+        "name": "Café 100% Puro, Arabica 1820 Molido Clásico, Tueste Oscuro -1000gr",
+        "price": "₡6.190"
+    },
+    {
+        "name": "Jabón Dove Original -90gr",
+        "price": "₡1.120"
+    },
+    {
+        "name": "Shampoo Dove Recontrucción Completa -1150ml",
+        "price": "₡8.550"
+    },
+    {
+        "name": "Acondicionador Dove Óleo Nutrición -400ml",
+        "price": "₡3.500"
     }
 ]
