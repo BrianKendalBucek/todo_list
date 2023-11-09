@@ -1,6 +1,5 @@
 import scrapy
 
-
 class WalmartCostaRicaSpider(scrapy.Spider):
     name = 'walmart_costa_rica'
 
