@@ -2,7 +2,7 @@ import scrapy
 
 class TicoSpider(scrapy.Spider):
     name = 'tico_spider'
-    start_urls = ['https://ticotimes.net/categories/expats']
+    start_urls = ['https://ticotimes.net/categories/expats', 'https://ticotimes.net/categories/arts-culture']
 
     custom_settings = {
     'FEEDS': {
